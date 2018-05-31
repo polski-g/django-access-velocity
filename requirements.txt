@@ -1,0 +1,5 @@
+Django==1.11.13
+django-appconf
+django-ipware
+geoip2
+geopy
